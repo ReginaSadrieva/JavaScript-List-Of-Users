@@ -13,7 +13,7 @@ Each line is forged with clarity, focus, and silent fire.
 
 ## ᛟ Technologies Used
 - HTML5
-- CSS3
+- Bootstrap
 - JavaScript
 
 ## ᚨᚲᛇᛃᛟ Getting Started
@@ -24,4 +24,4 @@ Let harvest come.
 Let the craft become mine.
 
 Unseal the code `index.html`
-https://reginasadrieva.github.io/WebCore-ResponsiveDesign-6.8/
+
